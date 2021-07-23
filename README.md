@@ -1,5 +1,5 @@
 # Projects
-Small projects on JAVA
+MY SMALL PROJECTS ON JAVA
 
 
 Hey there!
